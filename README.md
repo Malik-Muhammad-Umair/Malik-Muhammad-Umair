@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Ecommerce website**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Malik-M-Umair](https://github.com/Malik-M-Umair)
+- 👨‍💻 All of my projects are available at [https://github.com/Malik-M-Umair](https://github.com/Malik-Muhammad-Umair)
 
 - 📫 How to reach me **malikMuhammadUmair6@gmail.com**
 
